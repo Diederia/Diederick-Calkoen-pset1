@@ -11,11 +11,10 @@
  * 
  ***************************************************************************/
 
-On the left side is the view of Mr. potatohead and the options in the app. In the viewcontroller you see the first part of the code, UIImageView of all the images of Mr. Potatohead.
+On the left side is the view of Mr. potatohead and the options in the app. In the viewcontroller you see the first part of the code, UIImageView of all the images of Mr. Potatohead. To check if the switch is on or off you need a outlet of the UISwitch.
 ![alt text] (https://github.com/Diederia/Diederick-Calkoen-pset1/blob/master/Screen%20Shot%202016-11-04%20at%2017.24.45.png)
 
-To check if the switch is on or off you need a outlet of the UISwitch.
+For every button you need to have an action to make the image hidden when the switch is turned off. You could also work with sender.tag and save a lot code. But i'm not fully understanding it.
 ![alt text] (https://github.com/Diederia/Diederick-Calkoen-pset1/blob/master/Screen%20Shot%202016-11-04%20at%2017.25.13.png)
 
-For every button you need to have an action to make the image hidden when the switch is turned off. You could also work with sender.tag and save a lot code. But i'm not fully understanding it.
 ![alt text] (https://github.com/Diederia/Diederick-Calkoen-pset1/blob/master/Screen%20Shot%202016-11-04%20at%2017.25.43.png)
